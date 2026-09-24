@@ -3,7 +3,7 @@
 
 The CosmicWatch Detector v3C is a commercial, compact, low-power (0.5 W) particle detector that uses a plastic scintillator and silicon photomultiplier to record cosmic-ray muons with high sensitivity and timing precision. It supports standalone data logging to microSD or live USB streaming, offers coincidence mode with a second detector for background suppression, and logs rich event metadata (timestamp, ADC value, coincident flag, temperature, pressure, acceleration, angular velocity). This version is not open source, it is produced by AxTech Scientific, and the documentation for it is found in this repository.
 
-![Alt text](Pictures/CW_arraw.jpg)
+![Alt text](Pictures/Assembly2.jpg)
 
 ## License
 
