@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -m py_compile GUI.py)",
+      "Bash(python3 -c ' *)",
+      "Bash(rm -f /tmp/test_mixed.txt)",
+      "Bash(python3 -c \"import PIL; print\\(PIL.__version__\\)\")",
+      "Bash(rm -f /tmp/test_round.txt)",
+      "Bash(rm -f /tmp/test_baddline.txt)"
+    ],
+    "additionalDirectories": [
+      "/private/tmp"
+    ]
+  }
+}
