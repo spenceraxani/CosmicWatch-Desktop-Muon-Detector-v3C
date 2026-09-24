@@ -11,7 +11,7 @@ This project is licensed under the [Creative Commons Attribution-NonCommercial 4
 
 You may build and modify this project for personal or educational use, but **commercial use and redistribution is prohibited** without explicit permission from the author.
 
-© 2025 [University of Delaware, Prof. Spencer N.G. Axani]
+© 2025 [AxTech Scientific, Prof. Spencer N.G. Axani]
 
 [![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
 
