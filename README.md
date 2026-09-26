@@ -9,7 +9,7 @@ The CosmicWatch Detector v3C is a commercial, compact, low-power (0.5 W) particl
 
 This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 
-You may build and modify this project for personal or educational use, but **commercial use and redistribution is prohibited** without explicit permission from the author.
+**Commercial use and redistribution is prohibited** without explicit permission from the author.
 
 © 2025 [AxTech Scientific LLC, Prof. Spencer N.G. Axani]
 
